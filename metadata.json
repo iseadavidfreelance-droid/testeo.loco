@@ -1,0 +1,5 @@
+{
+  "name": "Alfa-OS Pinterest ELT Monitor",
+  "description": "A high-performance system health dashboard for monitoring Pinterest ingestion cycles, raw buffer capacity, and zombie process detection.",
+  "requestFramePermissions": []
+}
